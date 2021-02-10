@@ -34,7 +34,7 @@ Example:
 set_property(TARGET daemon PROPERTY OUTPUT_NAME "furiouscoind")
 ```
 
-**Note:** You should also change a repository name. PAKEISTI SAUGYKLOS PAVADINIMA?
+**Note:** You should also change a repository name.
 
 
 ### Second step. Emission logic 
